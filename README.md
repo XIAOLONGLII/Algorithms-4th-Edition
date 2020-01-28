@@ -7,5 +7,5 @@ Respect the book, and read everything!
 ```
 
 
-Exercise: https://algs4.cs.princeton.edu/home/
-Book: http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf
+. Exercise: https://algs4.cs.princeton.edu/home/
+. Book: http://www.cs.bu.edu/~snyder/cs112/CourseMaterials/AlgorithmsChapterOne.pdf
